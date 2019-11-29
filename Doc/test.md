@@ -10,3 +10,11 @@ Tags:
 
 
 
+
+
+:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
+:::
+:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
+:::
+:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
+:::
