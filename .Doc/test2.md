@@ -1,8 +1,12 @@
 ---
 Tags:
 - cw.Azure
-- cw.Azure-Feature
+- cw.Azure - TSG
+- Confidentiality:Internal
 ---
+
+This is a internal content.
+
 [**Tags**](/Tags): [Azure](/Tags/Azure)  [Azure-Feature](/Tags/Azure%2DFeature) 
 
 ## Azure Storage Features
